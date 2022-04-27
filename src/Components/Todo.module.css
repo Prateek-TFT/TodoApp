@@ -1,0 +1,13 @@
+.box {
+  height: 40px;
+  width: 500px;
+  background: linear-gradient(to right, rgb(199, 147, 229), rgb(218, 240, 167));
+  color: black;
+  padding-top: 30px;
+}
+.headingBox {
+  margin-top: 10px;
+  height: 20px;
+  width: 500px;
+  background-color: rgb(11, 3, 14);
+}
